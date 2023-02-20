@@ -1,0 +1,13 @@
+<meta>
+  <info author="author_name" version="1.0.0" name="rocket_scriptName" type="script"/>
+
+
+
+  <!-- If needed -->
+  <!-- <script src="utils/listener.lua" type="shared"/> -->
+  <script src="utils/listener.lua" type="shared"/>
+  <script src="config/playerPrefsConfig.lua" type="server" />
+
+  <script src="core/client/templateClient.lua" type="client" cache="false"/>
+  <script src="core/server/templateServer.lua" type="server" cache="false"/>  
+</meta>
