@@ -1,3 +1,3 @@
-addCommandHandler('getapidata', function()
-    getAPIData()
+addCommandHandler('getapidata', function(player)
+    getAPIData(player)
 end)
